@@ -1,0 +1,63 @@
+#header{
+	background-color: green;
+	color: white;
+	text-align: center;
+	padding: 5px; 
+}
+#nav1{
+	line-height: 30px;
+	background-color: #eeeeee;
+	height: 1200px;
+	width: 300px;
+	float: right;
+	padding: 5px;
+}
+#section{
+	background-color:#66CDAA;
+	color: white;
+	width: 500px;
+	float: center;
+	padding: 50px;
+	text-align:center;
+	}
+#section_login{
+	background-color:#66CDAA;
+	color: white;
+	width: 29%;
+	float: right;
+	padding: 5%;
+	text-align:left;
+	}
+#section_cadastro{
+	background-color:#66CDAA;
+	color: white;
+	width: 50%;
+	float: center;
+	padding: 3%;
+	text-align:center;
+	}
+#section1{
+	background-color:#66CDAA;
+	color: black;
+	width: 10%;
+	float: center;
+	padding: 5%;
+	text-align:left;
+	}
+#footer1{
+	background-color: #66CDAA;
+	color: white;
+	clear:both;
+	text-align:center;
+	padding:5px;
+}
+#footer{
+	background-color: #66CDAA;
+	color: white;
+	clear:both;
+	text-align:center;
+	padding:10px;
+}
+body{
+	background-image:url(ps3.jpg);
+}
