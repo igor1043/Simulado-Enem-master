@@ -1,3 +1,8 @@
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 <?php
 $mquestao1 = "<p><b>Quantos são e de que forma é definido o número de Deputados</b>
 Calcula-se inicialmente o Quociente Populacional Nacional (QPN) mediante a divisão da população do país apurada no Censo 2010 pelo número de cadeiras de deputados federais; em seguida, divide-se a população de cada unidade da Federação pelo QPN, originando o Quociente Populacional Estadual (QPE)”. O cálculo mantém as regras constitucionais de limite máximo de 70 e mínimo de 8 por Estado.</b><br><br>
