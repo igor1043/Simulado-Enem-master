@@ -1,3 +1,8 @@
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 <?php
 $nquestao1 = "<p>1ª) A fermentação tem sido praticada comercialmente para a obtenção de varios produtos. Considera-se que a fermentação láctica produza:<p>";
 $nat1 = "<input type='radio' name='e_1' value='a'>a) Pães e Bolos<br></input>";
