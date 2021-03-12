@@ -1,3 +1,8 @@
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 <?php
 $hquestao1 = "<p>1ª) Período histórico referente ao processo de bipolarização mundial marcado <br>pela 
             formação de dois blocos distintos( um capitalista e outro socialista):<p>";
